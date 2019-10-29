@@ -440,7 +440,7 @@ plt.show()
 ```
 
 
-![png](output_12_0.png)
+![png](resources/output_12_0.png)
 
 
 ### # of dialogues per each player
@@ -536,7 +536,7 @@ plt.show()
 ```
 
 
-![png](output_16_0.png)
+![png](resources/output_16_0.png)
 
 
 # Feature Engineering
@@ -712,7 +712,7 @@ plt.show()
 ```
 
 
-![png](output_23_0.png)
+![png](resources/output_23_0.png)
 
 
 # Word vectorization
